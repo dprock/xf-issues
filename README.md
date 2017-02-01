@@ -12,7 +12,7 @@ Next, go to one of the links listed below which is related to where the issue is
 
 [Themes](https://www.themehouse.com/xenforo/issues/themes)
 
-After you have registered and went to our issue boards. You will see different tabs up above, these tabs include: Code, Issues, Pull Requests, Projects, Wiki, Pulse, and Graphs. You will want to click “Issues” as that will take you to where all issues can be posted
+After you have registered and went to our issue boards. You will see different tabs up above, these tabs include: Code, Issues, Pull Requests, Projects, Wiki, Pulse, and Graphs. You will want to click “Issues” as that will take you to where all issues can be posted.
 
 **Posting an Issue**
 
